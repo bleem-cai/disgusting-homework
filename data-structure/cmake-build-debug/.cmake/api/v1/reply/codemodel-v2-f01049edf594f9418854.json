@@ -1,0 +1,123 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "data-structure",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "01merge_sort::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-01merge_sort-Debug-2a51a720d05d8ecc8b59.json",
+					"name" : "01merge_sort",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "02avl_tree::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-02avl_tree-Debug-8397bf4b4eb1cd05b31d.json",
+					"name" : "02avl_tree",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "03topological_sort::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-03topological_sort-Debug-8ad9a5d79cc95321aa65.json",
+					"name" : "03topological_sort",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "04min_edit_distance::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-04min_edit_distance-Debug-5df7b5546cf934231cb8.json",
+					"name" : "04min_edit_distance",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "05huffman_code::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-05huffman_code-Debug-3d728dd0c1b93d619e3d.json",
+					"name" : "05huffman_code",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "06dijkstra::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-06dijkstra-Debug-f5e8b76f9ffc45e6769c.json",
+					"name" : "06dijkstra",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "07quick_sort::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-07quick_sort-Debug-dddb890b1603f76c6e3b.json",
+					"name" : "07quick_sort",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "08prim_kruskal::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-08prim_kruskal-Debug-075bd5e24a3526d3b912.json",
+					"name" : "08prim_kruskal",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/86188/Desktop/data-structure/cmake-build-debug",
+		"source" : "C:/Users/86188/Desktop/data-structure"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
