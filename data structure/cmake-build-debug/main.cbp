@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="main"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/86188/Desktop/disgusting-homework/data structure/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/jetbrains/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/86188/Desktop/disgusting-homework/data structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/jetbrains/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/86188/Desktop/disgusting-homework/data structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/jetbrains/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/86188/Desktop/disgusting-homework/data structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/jetbrains/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/86188/Desktop/disgusting-homework/data structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="01merge_sort">
+				<Option output="C:/Users/86188/Desktop/disgusting-homework/data structure/cmake-build-debug/01merge_sort.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/86188/Desktop/disgusting-homework/data structure/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/jetbrains/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/jetbrains/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/jetbrains/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/jetbrains/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/86188/Desktop/disgusting-homework/data structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 01merge_sort"/>
+					<CompileFile command="C:/jetbrains/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/86188/Desktop/disgusting-homework/data structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/jetbrains/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/86188/Desktop/disgusting-homework/data structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/jetbrains/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/86188/Desktop/disgusting-homework/data structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="01merge_sort/fast">
+				<Option output="C:/Users/86188/Desktop/disgusting-homework/data structure/cmake-build-debug/01merge_sort.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/86188/Desktop/disgusting-homework/data structure/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/jetbrains/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/jetbrains/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/jetbrains/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/jetbrains/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/86188/Desktop/disgusting-homework/data structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 01merge_sort/fast"/>
+					<CompileFile command="C:/jetbrains/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/86188/Desktop/disgusting-homework/data structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/jetbrains/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/86188/Desktop/disgusting-homework/data structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/jetbrains/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/86188/Desktop/disgusting-homework/data structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="05huffman_code">
+				<Option output="C:/Users/86188/Desktop/disgusting-homework/data structure/cmake-build-debug/05huffman_code.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/86188/Desktop/disgusting-homework/data structure/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/jetbrains/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/jetbrains/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/jetbrains/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/jetbrains/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/86188/Desktop/disgusting-homework/data structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 05huffman_code"/>
+					<CompileFile command="C:/jetbrains/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/86188/Desktop/disgusting-homework/data structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/jetbrains/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/86188/Desktop/disgusting-homework/data structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/jetbrains/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/86188/Desktop/disgusting-homework/data structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="05huffman_code/fast">
+				<Option output="C:/Users/86188/Desktop/disgusting-homework/data structure/cmake-build-debug/05huffman_code.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/86188/Desktop/disgusting-homework/data structure/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/jetbrains/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/jetbrains/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/jetbrains/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/jetbrains/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/86188/Desktop/disgusting-homework/data structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 05huffman_code/fast"/>
+					<CompileFile command="C:/jetbrains/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/86188/Desktop/disgusting-homework/data structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/jetbrains/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/86188/Desktop/disgusting-homework/data structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/jetbrains/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/86188/Desktop/disgusting-homework/data structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/86188/Desktop/disgusting-homework/data structure/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/jetbrains/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/86188/Desktop/disgusting-homework/data structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/jetbrains/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/86188/Desktop/disgusting-homework/data structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/jetbrains/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/86188/Desktop/disgusting-homework/data structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/jetbrains/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/86188/Desktop/disgusting-homework/data structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="02avl_tree">
+				<Option output="C:/Users/86188/Desktop/disgusting-homework/data structure/cmake-build-debug/02avl_tree.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/86188/Desktop/disgusting-homework/data structure/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/jetbrains/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/jetbrains/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/jetbrains/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/jetbrains/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/86188/Desktop/disgusting-homework/data structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 02avl_tree"/>
+					<CompileFile command="C:/jetbrains/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/86188/Desktop/disgusting-homework/data structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/jetbrains/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/86188/Desktop/disgusting-homework/data structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/jetbrains/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/86188/Desktop/disgusting-homework/data structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="02avl_tree/fast">
+				<Option output="C:/Users/86188/Desktop/disgusting-homework/data structure/cmake-build-debug/02avl_tree.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/86188/Desktop/disgusting-homework/data structure/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/jetbrains/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/jetbrains/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/jetbrains/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/jetbrains/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/86188/Desktop/disgusting-homework/data structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 02avl_tree/fast"/>
+					<CompileFile command="C:/jetbrains/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/86188/Desktop/disgusting-homework/data structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/jetbrains/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/86188/Desktop/disgusting-homework/data structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/jetbrains/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/86188/Desktop/disgusting-homework/data structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="03topological_sort">
+				<Option output="C:/Users/86188/Desktop/disgusting-homework/data structure/cmake-build-debug/03topological_sort.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/86188/Desktop/disgusting-homework/data structure/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/jetbrains/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/jetbrains/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/jetbrains/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/jetbrains/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/86188/Desktop/disgusting-homework/data structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 03topological_sort"/>
+					<CompileFile command="C:/jetbrains/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/86188/Desktop/disgusting-homework/data structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/jetbrains/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/86188/Desktop/disgusting-homework/data structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/jetbrains/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/86188/Desktop/disgusting-homework/data structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="03topological_sort/fast">
+				<Option output="C:/Users/86188/Desktop/disgusting-homework/data structure/cmake-build-debug/03topological_sort.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/86188/Desktop/disgusting-homework/data structure/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/jetbrains/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/jetbrains/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/jetbrains/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/jetbrains/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/86188/Desktop/disgusting-homework/data structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 03topological_sort/fast"/>
+					<CompileFile command="C:/jetbrains/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/86188/Desktop/disgusting-homework/data structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/jetbrains/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/86188/Desktop/disgusting-homework/data structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/jetbrains/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/86188/Desktop/disgusting-homework/data structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="04min_edit_distance">
+				<Option output="C:/Users/86188/Desktop/disgusting-homework/data structure/cmake-build-debug/04min_edit_distance.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/86188/Desktop/disgusting-homework/data structure/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/jetbrains/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/jetbrains/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/jetbrains/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/jetbrains/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/86188/Desktop/disgusting-homework/data structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 04min_edit_distance"/>
+					<CompileFile command="C:/jetbrains/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/86188/Desktop/disgusting-homework/data structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/jetbrains/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/86188/Desktop/disgusting-homework/data structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/jetbrains/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/86188/Desktop/disgusting-homework/data structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="04min_edit_distance/fast">
+				<Option output="C:/Users/86188/Desktop/disgusting-homework/data structure/cmake-build-debug/04min_edit_distance.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/86188/Desktop/disgusting-homework/data structure/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/jetbrains/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/jetbrains/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/jetbrains/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/jetbrains/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/86188/Desktop/disgusting-homework/data structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 04min_edit_distance/fast"/>
+					<CompileFile command="C:/jetbrains/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/86188/Desktop/disgusting-homework/data structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/jetbrains/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/86188/Desktop/disgusting-homework/data structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/jetbrains/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/86188/Desktop/disgusting-homework/data structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="08prim_kruskal">
+				<Option output="C:/Users/86188/Desktop/disgusting-homework/data structure/cmake-build-debug/08prim_kruskal.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/86188/Desktop/disgusting-homework/data structure/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/jetbrains/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/jetbrains/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/jetbrains/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/jetbrains/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/86188/Desktop/disgusting-homework/data structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 08prim_kruskal"/>
+					<CompileFile command="C:/jetbrains/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/86188/Desktop/disgusting-homework/data structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/jetbrains/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/86188/Desktop/disgusting-homework/data structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/jetbrains/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/86188/Desktop/disgusting-homework/data structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="08prim_kruskal/fast">
+				<Option output="C:/Users/86188/Desktop/disgusting-homework/data structure/cmake-build-debug/08prim_kruskal.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/86188/Desktop/disgusting-homework/data structure/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/jetbrains/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/jetbrains/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/jetbrains/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/jetbrains/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/86188/Desktop/disgusting-homework/data structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 08prim_kruskal/fast"/>
+					<CompileFile command="C:/jetbrains/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/86188/Desktop/disgusting-homework/data structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/jetbrains/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/86188/Desktop/disgusting-homework/data structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/jetbrains/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/86188/Desktop/disgusting-homework/data structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="06dijkstra">
+				<Option output="C:/Users/86188/Desktop/disgusting-homework/data structure/cmake-build-debug/06dijkstra.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/86188/Desktop/disgusting-homework/data structure/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/jetbrains/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/jetbrains/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/jetbrains/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/jetbrains/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/86188/Desktop/disgusting-homework/data structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 06dijkstra"/>
+					<CompileFile command="C:/jetbrains/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/86188/Desktop/disgusting-homework/data structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/jetbrains/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/86188/Desktop/disgusting-homework/data structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/jetbrains/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/86188/Desktop/disgusting-homework/data structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="06dijkstra/fast">
+				<Option output="C:/Users/86188/Desktop/disgusting-homework/data structure/cmake-build-debug/06dijkstra.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/86188/Desktop/disgusting-homework/data structure/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/jetbrains/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/jetbrains/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/jetbrains/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/jetbrains/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/86188/Desktop/disgusting-homework/data structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 06dijkstra/fast"/>
+					<CompileFile command="C:/jetbrains/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/86188/Desktop/disgusting-homework/data structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/jetbrains/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/86188/Desktop/disgusting-homework/data structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/jetbrains/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/86188/Desktop/disgusting-homework/data structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="07quick_sort">
+				<Option output="C:/Users/86188/Desktop/disgusting-homework/data structure/cmake-build-debug/07quick_sort.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/86188/Desktop/disgusting-homework/data structure/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/jetbrains/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/jetbrains/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/jetbrains/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/jetbrains/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/86188/Desktop/disgusting-homework/data structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 07quick_sort"/>
+					<CompileFile command="C:/jetbrains/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/86188/Desktop/disgusting-homework/data structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/jetbrains/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/86188/Desktop/disgusting-homework/data structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/jetbrains/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/86188/Desktop/disgusting-homework/data structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="07quick_sort/fast">
+				<Option output="C:/Users/86188/Desktop/disgusting-homework/data structure/cmake-build-debug/07quick_sort.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/86188/Desktop/disgusting-homework/data structure/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/jetbrains/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/jetbrains/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/jetbrains/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/jetbrains/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/86188/Desktop/disgusting-homework/data structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 07quick_sort/fast"/>
+					<CompileFile command="C:/jetbrains/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/86188/Desktop/disgusting-homework/data structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/jetbrains/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/86188/Desktop/disgusting-homework/data structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/jetbrains/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/86188/Desktop/disgusting-homework/data structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/86188/Desktop/disgusting-homework/data structure/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/jetbrains/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/86188/Desktop/disgusting-homework/data structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/jetbrains/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/86188/Desktop/disgusting-homework/data structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/jetbrains/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/86188/Desktop/disgusting-homework/data structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/jetbrains/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/86188/Desktop/disgusting-homework/data structure/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/86188/Desktop/disgusting-homework/data structure/src/01merge_sort/main.c">
+			<Option target="01merge_sort"/>
+		</Unit>
+		<Unit filename="C:/Users/86188/Desktop/disgusting-homework/data structure/src/01merge_sort/merge_sort.c">
+			<Option target="01merge_sort"/>
+		</Unit>
+		<Unit filename="C:/Users/86188/Desktop/disgusting-homework/data structure/src/01merge_sort/merge_sort.h">
+			<Option target="01merge_sort"/>
+		</Unit>
+		<Unit filename="C:/Users/86188/Desktop/disgusting-homework/data structure/src/02avl_tree/02avl_tree.c">
+			<Option target="02avl_tree"/>
+		</Unit>
+		<Unit filename="C:/Users/86188/Desktop/disgusting-homework/data structure/src/02avl_tree/02avl_tree.h">
+			<Option target="02avl_tree"/>
+		</Unit>
+		<Unit filename="C:/Users/86188/Desktop/disgusting-homework/data structure/src/02avl_tree/test.c">
+			<Option target="02avl_tree"/>
+		</Unit>
+		<Unit filename="C:/Users/86188/Desktop/disgusting-homework/data structure/src/03topological_sort/topological_sort.c">
+			<Option target="03topological_sort"/>
+		</Unit>
+		<Unit filename="C:/Users/86188/Desktop/disgusting-homework/data structure/src/04min_edit_distance/min_edit_distance.c">
+			<Option target="04min_edit_distance"/>
+		</Unit>
+		<Unit filename="C:/Users/86188/Desktop/disgusting-homework/data structure/src/05huffman_code/huffman_code.c">
+			<Option target="05huffman_code"/>
+		</Unit>
+		<Unit filename="C:/Users/86188/Desktop/disgusting-homework/data structure/src/06dijkstra/dijkstra.c">
+			<Option target="06dijkstra"/>
+		</Unit>
+		<Unit filename="C:/Users/86188/Desktop/disgusting-homework/data structure/src/07quick_sort/quick_sort.c">
+			<Option target="07quick_sort"/>
+		</Unit>
+		<Unit filename="C:/Users/86188/Desktop/disgusting-homework/data structure/src/08prim_kruskal/prim_kruskal.c">
+			<Option target="08prim_kruskal"/>
+		</Unit>
+		<Unit filename="C:/Users/86188/Desktop/disgusting-homework/data structure/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

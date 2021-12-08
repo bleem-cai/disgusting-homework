@@ -1,0 +1,3 @@
+C:\jetbrains\CLion\bin\cmake\win\bin\cmake.exe -E rm -f CMakeFiles\07quick_sort.dir/objects.a
+C:\jetbrains\mingw64\bin\ar.exe qc CMakeFiles\07quick_sort.dir/objects.a @CMakeFiles\07quick_sort.dir\objects1.rsp
+C:\jetbrains\mingw64\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\07quick_sort.dir/objects.a -Wl,--no-whole-archive -o 07quick_sort.exe -Wl,--out-implib,lib07quick_sort.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\07quick_sort.dir\linklibs.rsp
