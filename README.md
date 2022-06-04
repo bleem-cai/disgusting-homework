@@ -1,2 +1,2 @@
 # disgusting-homework
-the homework makes me feel crazy
+data structure course design of SE
